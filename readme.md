@@ -52,5 +52,3 @@
 - [Codepen](https://codepen.io/qrx357) - тут несколько простеньких анимаций
 - [Codewars](https://www.codewars.com/users/____________/)
 - [Hexlet](https://ru.hexlet.io/u/user-e954b317dfdf187f)
-
-№№№
