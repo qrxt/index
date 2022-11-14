@@ -9,7 +9,7 @@
 
     | Технологии | Зачем |
     | ----------- | ----------- |
-    | React, Redux, Redux saga, Chakra UI  | Попрактиковаться в использовании Redux Saga, Chakra UI, ApexCharts |
+    | React, Redux, Redux saga, [Chakra UI](https://chakra-ui.com/)  | Попрактиковаться в использовании Chakra UI, ApexCharts |
 
 - [MCLauncher](https://github.com/qrxt/mclauncher)
     Простенький лаунчер для minecraft с поддержкой инстансов.
@@ -57,7 +57,7 @@
     | ----------- | ----------- |
     | Typescript, React, Redux, Redux saga | 2022 |
     
-### Ссылки на мои профили
+### Профили
 - [Codepen](https://codepen.io/qrx357) - тут несколько простеньких анимаций
 - [Codewars](https://www.codewars.com/users/____________/)
 - [Hexlet](https://ru.hexlet.io/u/user-e954b317dfdf187f)
