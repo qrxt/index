@@ -63,6 +63,12 @@
     | ------------------------------------ | ---- |
     | Typescript, React, Redux, Redux saga | 2022 |
     
+ - [Тестовое задание: frontend + graphql](https://github.com/qrxt/test-github-graphql-issues)
+
+    |     Технологии      |         Когда         |
+    | ------------------------------------ | ---- |
+    | Typescript, React, Apollo Client     | 2022 |
+    
 ### Профили
 - [Codepen](https://codepen.io/qrx357) - тут несколько простеньких анимаций
 - [Codewars](https://www.codewars.com/users/____________/)
