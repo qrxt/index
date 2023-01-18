@@ -4,13 +4,6 @@
 
 ## Проекты
 
-- [Currency](https://github.com/qrxt/currency)
-    Конвертор валют
-
-    | Технологии | Зачем |
-    | ----------- | ----------- |
-    | React, Redux, Redux saga, [Chakra UI](https://chakra-ui.com/)  | Попрактиковаться в использовании Chakra UI, ApexCharts |
-
 - [MCLauncher](https://github.com/qrxt/mclauncher)
     Простенький лаунчер для minecraft с поддержкой инстансов.
 
