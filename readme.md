@@ -61,11 +61,17 @@
     |     Технологии      |         Когда         |
     | ------------------------------------ | ---- |
     | Typescript, React, Apollo Client     | 2022 |
+    
 - [Задание от Funbox](https://github.com/qrxt/funbox-test)
 
     |     Технологии      |         Когда         |
     | ------------------------------------ | ---- |
     | Typescript, React, ts-pattern | 2023 |
+    
+- [Тестовое задание про Infinite Scroll](https://github.com/qrxt/test-infinite-scroll)
+    |     Технологии      |         Когда         |
+    | ------------------------------------ | ---- |
+    | Typescript, React | 2023 |
     
 ### Профили
 - [Codepen](https://codepen.io/qrx357) - тут несколько простеньких анимаций
